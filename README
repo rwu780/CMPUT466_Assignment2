@@ -1,0 +1,9 @@
+Name: Rui Wu
+ID: 1409366
+
+The code was runned and tested under python 2.7
+
+Run python script_regression.py
+
+Number of run = 2 where each run consider three initial weight 0, 0.1, 1。 Each algorithm will be evulated 6 times
+
